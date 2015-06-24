@@ -7,6 +7,10 @@ target 'Preacher' do
 
 end
 
+target 'PreacherExamples' do
+    pod "Preacher", :path => "../Preacher"
+end
+
 target 'PreacherTests' do
     pod "Quick"
     pod "Nimble"

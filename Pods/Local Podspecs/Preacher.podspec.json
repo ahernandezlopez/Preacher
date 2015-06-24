@@ -1,0 +1,21 @@
+{
+  "name": "Preacher",
+  "version": "0.1.0",
+  "license": "MIT",
+  "summary": "Easy Predicates in Swift",
+  "homepage": "https://github.com/ahernandezlopez/Preacher",
+  "social_media_url": "https://twitter.com/ahernandezlopez",
+  "authors": {
+    "Albert Hernández López": "albert.hernandez@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ahernandezlopez/Preacher.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": "Preacher/**/*.swift",
+  "requires_arc": true
+}
